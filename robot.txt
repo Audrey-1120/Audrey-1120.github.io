@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://audrey-1120.github.io/sitemap.xml
