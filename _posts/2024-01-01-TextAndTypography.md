@@ -3,7 +3,7 @@ title: "[기타] 게시물 작성 가이드"
 excerpt: "게시물 작성 가이드입니다."
 
 writer: Audrey
-categories: [기타]
+categories: [etc]
 
 toc: true
 toc_sticky: true
@@ -11,7 +11,7 @@ toc_sticky: true
 date: 2024-01-01 19:40:00 +09:00
 last_modified_at: 2024-01-01 19:40:00 +09:00
 
-tags: [기타]
+tags: [etc]
 ---
 
 
