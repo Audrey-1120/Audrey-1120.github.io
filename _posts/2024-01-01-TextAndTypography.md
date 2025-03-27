@@ -5,6 +5,8 @@ excerpt: "게시물 작성 가이드입니다."
 writer: Audrey
 categories: [etc]
 
+published: false
+
 toc: true
 toc_sticky: true
 
