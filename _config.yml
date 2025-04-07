@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Audrey's studyroom # the main title
 
-tagline: 물 흐르듯 살아가자 # it will display as the sub-title
+tagline: 하루하루 최선을 다해서! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal developer blog
